@@ -1,0 +1,322 @@
+    h1 {
+        color: aliceblue;
+    }
+    
+    .graph {
+        color: white;
+    }
+    
+    .main {
+        background-color: rgb(72, 72, 248);
+        text-align: center;
+        justify-content: stretch;
+        height: 50px;
+        width: 4spx;
+    }
+    
+    .pic {
+        width: 25px;
+        height: 20px;
+        flex-basis: inherit;
+    }
+    
+    .cantainer-2 {
+        align-items: center;
+    }
+    
+    .saylani_pic {
+        width: 150;
+        height: 70px;
+    }
+    
+    .say-pic {
+        width: 250px;
+        height: 60px;
+    }
+    
+    .nav-link {
+        text-decoration-style: wavy;
+        text-shadow: navajowhite;
+    }
+    
+    .favi-pic {
+        text-align: center;
+        font-style: inherit;
+    }
+    
+    .h1-1 {
+        text-align: center;
+    }
+    
+    .head {
+        color: #427900;
+    }
+    
+    .head span {
+        color: #316DC3;
+    }
+    
+    .intro {
+        text-align: justify;
+        text-align: center;
+    }
+    
+    .outer {
+        background-color: rgba(36, 79, 242);
+        height: max-content;
+        padding-bottom: 60px;
+    }
+    
+    .inner2 {
+        text-align: center;
+        color: white;
+    }
+    
+    .myfigure {
+        font-family: 'Merriweather', serif;
+        font-weight: bold;
+        font-size: 50px;
+    }
+    
+    .smallbox {
+        height: 150px;
+        margin-top: 60px;
+    }
+    
+    .green {
+        color: rgb(0, 255, 0);
+    }
+    
+    #six {
+        background-color: #f7f8fa;
+        height: max-content;
+    }
+    
+    .sixa {
+        text-align: center;
+    }
+    
+    .pack {
+        background-color: white;
+        height: 200px;
+        box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .desc {
+        padding: 20px;
+        color: #316DC3;
+    }
+    
+    .packout {
+        padding: 20px;
+    }
+    
+    .sixc {
+        padding-bottom: 30px;
+    }
+    
+    .seventh {
+        height: max-content;
+    }
+    
+    .sevena,
+    .sevenb {
+        height: max-content;
+        margin-top: 60px;
+    }
+    
+    .headseven {
+        font-family: 'Merriweather', serif;
+        font-weight: 600;
+        line-height: 1.42857143;
+        color: #316DC3;
+    }
+    
+    .greenline {
+        width: 50px;
+        height: 1px;
+        background-color: #427900;
+        margin: 0px;
+    }
+    
+    .subrowb {
+        margin-top: 20px;
+    }
+    
+    .subrowc {
+        margin-bottom: 20px;
+    }
+    
+    .project {
+        height: 70px;
+        margin-right: 10px;
+        margin-top: 10px;
+        background-color: #f7f8fa;
+        display: inline-block;
+        border: 1px solid #eeeeee;
+        padding: 20px;
+    }
+    
+    .name {
+        display: inline-block;
+        color: #316DC3;
+        margin-left: 15px;
+        font-family: 'Merriweather', serif;
+        font-weight: bold;
+    }
+    
+    .greenline2 {
+        width: 50px;
+        height: 1px;
+        background-color: #427900;
+        margin: 0px;
+        position: relative;
+        margin-bottom: 30px;
+    }
+    
+    .greenline2:after {
+        content: '';
+        width: 300px;
+        height: 1px;
+        background-color: lightgrey;
+        margin: 0px;
+        position: absolute;
+        left: 50px;
+    }
+    
+    .sevenb p {
+        color: grey;
+        width: 70%;
+    }
+    
+    .blue {
+        color: blue;
+    }
+    
+    #eight {
+        margin-top: 30px;
+        margin-bottom: 150px;
+    }
+    
+    .head {
+        margin-bottom: 0px;
+        text-align: center;
+        text-decoration: solid;
+        text-shadow: 0px;
+    }
+    
+    .pic-sa {
+        padding: 0px;
+        margin-left: 30px;
+    }
+    
+    .eighta {
+        margin-bottom: 30px;
+    }
+    /*last part begine*/
+    
+    #nine {
+        height: max-content;
+        background-color: rgb(37, 39, 46);
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    
+    .info {
+        color: #bbb;
+    }
+    
+    .info ul {
+        list-style: none;
+        padding: 0px;
+    }
+    
+    .info ul li {
+        font-size: 15px;
+        padding-top: 3px;
+    }
+    
+    .info ul li i {
+        padding-right: 7px;
+        font-size: 12px;
+        color: #427900;
+    }
+    
+    .headnine {
+        font-family: 'Merriweather', serif;
+        font-weight: 600;
+        line-height: 1.42857143;
+        color: white;
+    }
+    
+    .greenline3 {
+        width: 50px;
+        height: 1px;
+        background-color: #427900;
+        margin: 0px;
+        position: relative;
+        margin-bottom: 30px;
+    }
+    
+    .greenline3:after {
+        content: '';
+        width: 300px;
+        height: 1px;
+        background-color: #444;
+        margin: 0px;
+        position: absolute;
+        left: 50px;
+    }
+    
+    .row {
+        margin: 0px;
+    }
+    
+    .connect li i {
+        margin-top: 10px;
+        font-size: 13px;
+    }
+    
+    .connect li {
+        display: inline-block;
+        background-color: #316DD9;
+        width: 32px;
+        height: 32px;
+        text-align: center;
+        border-radius: 50%;
+        margin-top: 7px;
+        margin-right: 3px;
+    }
+    
+    footer {
+        height: 40px;
+        background-color: #316DD9;
+        color: white;
+        font-size: 13px;
+    }
+    
+    footer p {
+        padding-top: 7px;
+    }
+    
+    @media only screen and (max-width: 900px) {
+        .mybars {
+            display: block;
+        }
+        .mynav {
+            display: none;
+        }
+        .myhr:after {
+            left: 57%;
+        }
+        .myhr:before {
+            left: 32%;
+        }
+    }
+    
+    .visible {
+        display: flex;
+        flex-direction: column;
+    }
